@@ -29,3 +29,4 @@ PROJETO BACK-END
 `npx prisma generate`
 * Precisa ser executado **toda vez** que o arquivo `schema.prisma` for alterado
 
+## Teste
